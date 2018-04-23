@@ -46,8 +46,7 @@ import org.jboss.logging.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import it.maserati.b2c.annotations.NoLogging;
-import it.maserati.b2c.service.PropertiesService;
+import it.httpmanager.example.PropertiesService;
 
 @Service
 public class HttpManager {
